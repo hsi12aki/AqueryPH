@@ -27,8 +27,8 @@ The app will help users quickly find tasks and data related to responsible touri
 
 <table>
   <tr>
-    <th> <h2> Group members </th>
-    <th> Contributions </h2></th>
+    <th> <h2> Group members </h2> </th>
+    <th> <h2> Contributions </h2> </th>
   </tr>
   <tr>
     <td> Denise Alcazar </td>
