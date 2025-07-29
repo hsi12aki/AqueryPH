@@ -27,8 +27,19 @@ The app will help users quickly find tasks and data related to responsible touri
 
 ## Group members and contributions
 <table>
-Denise Alcazar
-Hazel Damasco
-Kaelynn Sianghio
+  <tr>
+    <th> Group members </th>
+    <th> Contributions </th>
+  </tr>
+  <tr>
+    <td> Denise Alcazar </td>
+    <td> Hazel Damasco </td>
+    <td> Kaelynn Sianghio </td>
+  </tr>
+  <tr>
+    <td> app coding, data gathering, app architecture, troubleshooting, readme write-up, github pushing </td>
+    <td> powerpoint, readme write-up </td>
+    <td> abstract, statement of the problem, troubleshooting, data gathering </td>
+  </tr>
 </table>
 
