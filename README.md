@@ -8,7 +8,9 @@ This project uses digital technology, especially Artificial Intelligence (AI), t
 The app will help users quickly find tasks and data related to responsible tourism activities, making it a useful tool for both travelers and local communities. By using AI, the app will improve user experience and encourage sustainable practices that protect marine environments. It will provide links to conservation organizations, educational resources, and facts about how responsible tourism can benefit marine life, ensuring that users can make informed choices that support ecosystem health.
 
 ## Installation instructions
-
+git clone https://github.com/jlrn-rph/ama-prompt-rag-template
+cd langchain-pdf-chat
+pip install -r requirements.txt
 
 ## How it works
 
@@ -22,10 +24,13 @@ The app will help users quickly find tasks and data related to responsible touri
 <img width="1919" height="1025" alt="Screenshot 2025-07-30 043409" src="https://github.com/user-attachments/assets/28425b95-23c6-4ccb-bcca-34e2963ef331" />
 
 ## Technologies used
+- Streamlit UI
 - Langchain
-- HuggingFace
+- HuggingFace Transformers
 - google/flan-t5-large
 - Facebook AI Similarity Search
+- PyMuPDF
+- dotenv
 
 ## Group members and Contributions
 
