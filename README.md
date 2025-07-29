@@ -15,9 +15,20 @@ The app will help users quickly find tasks and data related to responsible touri
 
 ## Screenshots of the app
 
+<img width="1917" height="1027" alt="Screenshot 2025-07-30 041947" src="https://github.com/user-attachments/assets/1dbbb917-ddff-4b75-a282-ecea1efaa88a" />
+
+<img width="1917" height="1026" alt="Screenshot 2025-07-30 042702" src="https://github.com/user-attachments/assets/51780c91-45ac-4080-bb4e-f8b43e27de08" />
+
+<img width="1919" height="1025" alt="Screenshot 2025-07-30 043409" src="https://github.com/user-attachments/assets/28425b95-23c6-4ccb-bcca-34e2963ef331" />
 
 ## Technologies used
 
 
+
 ## Group members and contributions
+<table>
+Denise Alcazar
+Hazel Damasco
+Kaelynn Sianghio
+</table>
 
