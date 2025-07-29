@@ -32,15 +32,15 @@ The app will help users quickly find tasks and data related to responsible touri
   </tr>
   <tr>
     <td> Denise Alcazar </td>
-    <td> app coding, data gathering, app architecture, troubleshooting, readme write-up, github pushing </td>
+    <td> App Architecture, App Coding, Data Gathering, Troubleshooting, Readme Write-up, Github Pushing </td>
   </tr>
   <tr>
     <td> Hazel Damasco </td>
-    <td> powerpoint, readme write-up </td>
+    <td> Powerpoint, Readme Write-up </td>
   </tr>
   <tr>
     <td> Kaelynn Sianghio </td>
-    <td> abstract, statement of the problem, troubleshooting, data gathering </td>
+    <td> Leader, Abstract, Statement of the Problem, Troubleshooting, App Coding, Data Gathering </td>
   </tr>
 </table>
 
