@@ -22,8 +22,12 @@ The app will help users quickly find tasks and data related to responsible touri
 <img width="1919" height="1025" alt="Screenshot 2025-07-30 043409" src="https://github.com/user-attachments/assets/28425b95-23c6-4ccb-bcca-34e2963ef331" />
 
 ## Technologies used
+- Langchain
+- HuggingFace
+- google/flan-t5-large
+- Facebook AI Similarity Search
 
-
+## Group members and Contributions
 
 <table>
   <tr>
