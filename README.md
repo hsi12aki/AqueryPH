@@ -60,7 +60,7 @@ chunk_overlap=50
 ```
 ### ✦ Convert Chunks to Embeddings
  - Text chunks is converted into a numerical vector (an embedding) using the embedding model from HuggingFace, `all-MiniLM-L6-v2`.
- - 
+
 ### ✦ Store in FAISS Vector Store
  - The generated embeddings are stored in the FAISS index. This special database is highly optimized for finding the most similar vectors to a given query vector, which is how the app finds relevant information.
 
