@@ -1,6 +1,12 @@
 # 🫧 AqueryPH 🫧
 Saving marine lives today!
 
+![AqueryGIF](https://github.com/user-attachments/assets/48a3fd6a-531c-4d72-b685-ca3627c72724)
+
+<a href="https://aqueryph-rag-finals.streamlit.app/"> AqueryPH RAG App Streamlit </a>
+
+⏏ Deployed version here ⏏
+
 ## About the project
 This project uses digital technology, especially Artificial Intelligence (AI), to tackle the challenges of responsible tourism and its effects on marine life in the Philippines. As tourism grows, it is important to reduce its harmful impacts on delicate marine ecosystems. We are developing an easy-to-use app that employs a modified Retrieval-Augmented Generation (RAG) model to gather and share important information about responsible tourism practices.
 
@@ -56,7 +62,7 @@ streamlit run app.py
   </tr>
   <tr>
     <td> Denise Alcazar </td>
-    <td> App Architecture, App Coding, Data Gathering, Troubleshooting, Readme.md Write-up, Github Pushing </td>
+    <td> App Architecture, App Coding, Data Gathering, Troubleshooting, Readme.md Write-up, Github Pushing, Documentation </td>
   </tr>
   <tr>
     <td> Hazel Damasco </td>
