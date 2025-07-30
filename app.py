@@ -2,8 +2,8 @@ import os
 import fitz
 import streamlit as st
 from dotenv import load_dotenv
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS #Facebook AI Similarity Search
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS #Facebook AI Similarity Search
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
@@ -102,7 +102,7 @@ with col1:
                 all_text += extract_text_from_pdf(file) + "\n"
 
             splitter = RecursiveCharacterTextSplitter(
-                chunk_size=500,
+                chunk_size=300,
                 chunk_overlap=50
             )
             chunks = splitter.split_text(all_text)
@@ -128,11 +128,11 @@ with col2:
   # Example questions
     with st.expander("Example Questions You Can Try"):
         st.markdown("""
-        - *What can I do in Siargao to see marine life?*
+        - *where can I see the pawikans?*
         - *How can I book a trip to Siargao?*
         - *What are the best marine activities in Cebu?*
-        - *Where are the conservation groups located at?*
-        - *Why is there a need to have sustainable marine tourism?*
+        - *Where are the conservation groups located at in the Philippines?*
+        - *Why is there a need to have sustainable marine tourism in the Philippines?*
                     
         """)
 
