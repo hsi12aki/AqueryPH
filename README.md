@@ -8,11 +8,18 @@ This project uses digital technology, especially Artificial Intelligence (AI), t
 The app will help users quickly find tasks and data related to responsible tourism activities, making it a useful tool for both travelers and local communities. By using AI, the app will improve user experience and encourage sustainable practices that protect marine environments. It will provide links to conservation organizations, educational resources, and facts about how responsible tourism can benefit marine life, ensuring that users can make informed choices that support ecosystem health.
 
 ## Installation instructions
-'''
-git clone https://github.com/jlrn-rph/ama-prompt-rag-template
-cd langchain-pdf-chat
+1. Clone the repo
+```
+git clone https://github.com/hsi12aki/AqueryPH.git
+```
+2. Install requirements
+```
 pip install -r requirements.txt
-'''
+```
+3. Run the app
+```
+streamlit run app.py
+```
 
 ## How it works
 
@@ -43,11 +50,11 @@ pip install -r requirements.txt
   </tr>
   <tr>
     <td> Denise Alcazar </td>
-    <td> App Architecture, App Coding, Data Gathering, Troubleshooting, Readme Write-up, Github Pushing </td>
+    <td> App Architecture, App Coding, Data Gathering, Troubleshooting, Readme.md Write-up, Github Pushing </td>
   </tr>
   <tr>
     <td> Hazel Damasco </td>
-    <td> Powerpoint, Readme Write-up </td>
+    <td> Powerpoint, Readme.md Write-up </td>
   </tr>
   <tr>
     <td> Kaelynn Sianghio </td>
