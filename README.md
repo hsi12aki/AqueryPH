@@ -8,9 +8,10 @@ about the marine ecosystem of the Philippines and help them navigate <br>
 where to go for their trip to the Philippines. <br>
 This app uses Streamlit for the UI.
 
-<a href="https://aqueryph-rag-finals.streamlit.app/"> AqueryPH RAG App Streamlit </a>
+[AqueryPH RAG App Streamlit](https://aqueryph-rag-finals.streamlit.app/)
 
 ⏏ Deployed version here ⏏
+
 
 ## ⚓ About the project ⚓
 This project uses digital technology, especially Artificial Intelligence (AI), to tackle the challenges of responsible tourism and its effects on marine life in the Philippines. As tourism grows, it is important to reduce its harmful impacts on delicate marine ecosystems. We are developing an easy-to-use app that employs a modified Retrieval-Augmented Generation (RAG) model to gather and share important information about responsible tourism practices.
@@ -59,10 +60,10 @@ chunk_size=300,
 chunk_overlap=50
 ```
 ### ✦ Convert Chunks to Embeddings
- - Text chunks is converted into a numerical vector (an embedding) using the embedding model from HuggingFace, `all-MiniLM-L6-v2`.
+ - Text chunks is converted into a numerical vector (an embedding) <br> using the embedding model from HuggingFace, `all-MiniLM-L6-v2`.
 
 ### ✦ Store in FAISS Vector Store
- - The generated embeddings are stored in the FAISS index. This special database is highly optimized for finding the most similar vectors to a given query vector, which is how the app finds relevant information.
+ - The generated embeddings are stored in the FAISS index. <br> This special database is highly optimized for finding the most similar vectors <br> to a given query vector, which is how the app finds relevant information.
 
 ### ✦ Ask Questions
 
@@ -70,7 +71,7 @@ chunk_overlap=50
 
     - converts the user's query into an embedding.
     - FAISS is used to find the text chunks with embedding most similar to the questions embedding.
-    - Relevant chunks are combined with the original questions and sent to the LLM, `flan-t5-large`. The script uses a custom prompt to guide the LLM’s response.
+    - Relevant chunks are combined with the original questions and sent to the LLM, `flan-t5-large`. <br> The script uses a custom prompt to guide the LLM’s response.
     - The LLM generates an answer based on the provided context and question, which is then displayed to the user.
 
 
