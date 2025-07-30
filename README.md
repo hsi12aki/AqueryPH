@@ -64,7 +64,7 @@ streamlit run app.py
   </tr>
   <tr>
     <td> Kaelynn Sianghio </td>
-    <td> Leader, Abstract, Statement of the Problem, Troubleshooting, App Coding, Data Gathering, App Prototype </td>
+    <td> Leader, Abstract, Statement of the Problem, Troubleshooting, Data Gathering, App Prototype </td>
   </tr>
 </table>
 
