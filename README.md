@@ -60,11 +60,11 @@ streamlit run app.py
   </tr>
   <tr>
     <td> Hazel Damasco </td>
-    <td> Powerpoint, Readme.md Write-up </td>
+    <td> Powerpoint, Readme.md Write-up, App Prototype </td>
   </tr>
   <tr>
     <td> Kaelynn Sianghio </td>
-    <td> Leader, Abstract, Statement of the Problem, Troubleshooting, App Coding, Data Gathering </td>
+    <td> Leader, Abstract, Statement of the Problem, Troubleshooting, App Coding, Data Gathering, App Prototype </td>
   </tr>
 </table>
 
