@@ -1,4 +1,4 @@
-# AqueryPH
+# 🫧 AqueryPH 🫧
 Saving marine lives today!
 
 ## About the project
@@ -8,7 +8,13 @@ This project uses digital technology, especially Artificial Intelligence (AI), t
 The app will help users quickly find tasks and data related to responsible tourism activities, making it a useful tool for both travelers and local communities. By using AI, the app will improve user experience and encourage sustainable practices that protect marine environments. It will provide links to conservation organizations, educational resources, and facts about how responsible tourism can benefit marine life, ensuring that users can make informed choices that support ecosystem health.
 
 ## Installation instructions
-- Clone the repo
+- Get a free API key from https://huggingface.co/
+- Then, create a .env file
+```
+# .env file
+HF_API_KEY=your_api_key_here
+```
+- In the terminal, clone the repo
 ```
 git clone https://github.com/hsi12aki/AqueryPH.git
 ```
