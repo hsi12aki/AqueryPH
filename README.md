@@ -82,7 +82,7 @@ chunk_overlap=50
 ### ✦ Example Questions
     - Examples are provided for a smoother process.
 
-### ✦ Chat History 
+### ✦ Chat History  
     - You can check your previous questions in case you need to go back.
     - Use the 'Clear Chat History' button to make a new query.
     
