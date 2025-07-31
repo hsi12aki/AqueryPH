@@ -47,6 +47,8 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+- (Opt.) Feed documents
+- Documents we used are [here](https://drive.google.com/drive/folders/16rNekE-LRfC0FjfEZgXsg6PWrfYHP_PY?usp=drive_link) (Drive link)
 
 ## ⚓ How it works ⚓
 
