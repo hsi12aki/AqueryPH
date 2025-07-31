@@ -76,6 +76,17 @@ chunk_overlap=50
     - Relevant chunks are combined with the original questions and sent to the LLM, `flan-t5-large`. <br> The script uses a custom prompt to guide the LLM’s response.
     - The LLM generates an answer based on the provided context and question, which is then displayed to the user.
 
+### ✦ Check Extracted Text
+    - Extracted text can be viewed within a dropdown button.
+
+### ✦ Example Questions
+    - Examples are provided for a smoother process.
+
+### ✦ Chat History 
+    - You can check your previous questions in case you need to go back.
+    - Use the 'Clear Chat History' button to make a new query.
+    
+
 
 ## ⚓ Screenshots of the app ⚓
 
